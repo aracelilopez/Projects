@@ -1,0 +1,61 @@
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.1\CapaDeDatos\bin\Debug\CapaDeDatos.dll
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.1\CapaDeDatos\bin\Debug\CapaDeDatos.pdb
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.1\CapaDeDatos\obj\Debug\CapaDeDatos.csprojResolveAssemblyReference.cache
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.1\CapaDeDatos\obj\Debug\CapaDeDatos.dll
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.1\CapaDeDatos\obj\Debug\CapaDeDatos.pdb
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.2\CapaDeDatos\bin\Debug\CapaDeDatos.dll
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.2\CapaDeDatos\bin\Debug\CapaDeDatos.pdb
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.2\CapaDeDatos\obj\Debug\CapaDeDatos.csprojResolveAssemblyReference.cache
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.2\CapaDeDatos\obj\Debug\CapaDeDatos.dll
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.2\CapaDeDatos\obj\Debug\CapaDeDatos.pdb
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.3\CapaDeDatos\bin\Debug\CapaDeDatos.dll
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.3\CapaDeDatos\bin\Debug\CapaDeDatos.pdb
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.3\CapaDeDatos\obj\Debug\CapaDeDatos.csprojResolveAssemblyReference.cache
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.3\CapaDeDatos\obj\Debug\CapaDeDatos.dll
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.3\CapaDeDatos\obj\Debug\CapaDeDatos.pdb
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaDeDatos\bin\Debug\CapaDeDatos.dll
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaDeDatos\bin\Debug\CapaDeDatos.pdb
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaDeDatos\obj\Debug\CapaDeDatos.csprojResolveAssemblyReference.cache
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaDeDatos\obj\Debug\CapaDeDatos.dll
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaDeDatos\obj\Debug\CapaDeDatos.pdb
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaDeDatos\bin\Debug\CapaDeDatos.dll
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaDeDatos\bin\Debug\CapaDeDatos.pdb
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaDeDatos\obj\Debug\CapaDeDatos.csprojResolveAssemblyReference.cache
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaDeDatos\obj\Debug\CapaDeDatos.dll
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaDeDatos\obj\Debug\CapaDeDatos.pdb
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\BibliotecaFinal2014v0.6\CapaDeDatos\bin\Debug\CapaDeDatos.dll
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\BibliotecaFinal2014v0.6\CapaDeDatos\bin\Debug\CapaDeDatos.pdb
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\BibliotecaFinal2014v0.6\CapaDeDatos\obj\Debug\CapaDeDatos.csprojResolveAssemblyReference.cache
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\BibliotecaFinal2014v0.6\CapaDeDatos\obj\Debug\CapaDeDatos.dll
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\BibliotecaFinal2014v0.6\CapaDeDatos\obj\Debug\CapaDeDatos.pdb
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.6\CapaDeDatos\bin\Debug\CapaDeDatos.dll
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.6\CapaDeDatos\bin\Debug\CapaDeDatos.pdb
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.6\CapaDeDatos\obj\Debug\CapaDeDatos.csprojResolveAssemblyReference.cache
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.6\CapaDeDatos\obj\Debug\CapaDeDatos.dll
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.6\CapaDeDatos\obj\Debug\CapaDeDatos.pdb
+C:\Cosas de la facultad\Electiva de programacion\FINAL\BibliotecaFinal2014v0.6\CapaDeDatos\bin\Debug\CapaDeDatos.dll
+C:\Cosas de la facultad\Electiva de programacion\FINAL\BibliotecaFinal2014v0.6\CapaDeDatos\bin\Debug\CapaDeDatos.pdb
+C:\Cosas de la facultad\Electiva de programacion\FINAL\BibliotecaFinal2014v0.6\CapaDeDatos\bin\Debug\MySql.Data.DLL
+C:\Cosas de la facultad\Electiva de programacion\FINAL\BibliotecaFinal2014v0.6\CapaDeDatos\obj\Debug\CapaDeDatos.csprojAssemblyReference.cache
+C:\Cosas de la facultad\Electiva de programacion\FINAL\BibliotecaFinal2014v0.6\CapaDeDatos\obj\Debug\CapaDeDatos.csproj.CoreCompileInputs.cache
+C:\Cosas de la facultad\Electiva de programacion\FINAL\BibliotecaFinal2014v0.6\CapaDeDatos\obj\Debug\CapaDeDatos.csproj.CopyComplete
+C:\Cosas de la facultad\Electiva de programacion\FINAL\BibliotecaFinal2014v0.6\CapaDeDatos\obj\Debug\CapaDeDatos.dll
+C:\Cosas de la facultad\Electiva de programacion\FINAL\BibliotecaFinal2014v0.6\CapaDeDatos\obj\Debug\CapaDeDatos.pdb
+C:\Users\User\Desktop\Trabajos chotos\Biblioteca\CapaDeDatos\bin\Debug\CapaDeDatos.dll
+C:\Users\User\Desktop\Trabajos chotos\Biblioteca\CapaDeDatos\bin\Debug\CapaDeDatos.pdb
+C:\Users\User\Desktop\Trabajos chotos\Biblioteca\CapaDeDatos\obj\Debug\CapaDeDatos.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Trabajos chotos\Biblioteca\CapaDeDatos\obj\Debug\CapaDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Trabajos chotos\Biblioteca\CapaDeDatos\obj\Debug\CapaDeDatos.csproj.CopyComplete
+C:\Users\User\Desktop\Trabajos chotos\Biblioteca\CapaDeDatos\obj\Debug\CapaDeDatos.dll
+C:\Users\User\Desktop\Trabajos chotos\Biblioteca\CapaDeDatos\obj\Debug\CapaDeDatos.pdb
+C:\Users\User\Desktop\trabajos\Biblioteca - copia - copia\CapaDeDatos\obj\Debug\CapaDeDatos.csprojAssemblyReference.cache
+C:\Users\User\Desktop\trabajos\Biblioteca - copia - copia\CapaDeDatos\obj\Debug\CapaDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\trabajos\Biblioteca - copia - copia\CapaDeDatos\obj\Debug\CapaDeDatos.dll
+C:\Users\User\Desktop\trabajos\Biblioteca - copia - copia\CapaDeDatos\obj\Debug\CapaDeDatos.pdb
+C:\Users\Gonzalo\Desktop\Araceli\Biblioteca\CapaDeDatos\bin\Debug\CapaDeDatos.dll
+C:\Users\Gonzalo\Desktop\Araceli\Biblioteca\CapaDeDatos\bin\Debug\CapaDeDatos.pdb
+C:\Users\Gonzalo\Desktop\Araceli\Biblioteca\CapaDeDatos\obj\Debug\CapaDeDatos.csprojAssemblyReference.cache
+C:\Users\Gonzalo\Desktop\Araceli\Biblioteca\CapaDeDatos\obj\Debug\CapaDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalo\Desktop\Araceli\Biblioteca\CapaDeDatos\obj\Debug\CapaDeDatos.csproj.CopyComplete
+C:\Users\Gonzalo\Desktop\Araceli\Biblioteca\CapaDeDatos\obj\Debug\CapaDeDatos.dll
+C:\Users\Gonzalo\Desktop\Araceli\Biblioteca\CapaDeDatos\obj\Debug\CapaDeDatos.pdb

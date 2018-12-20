@@ -1,0 +1,24 @@
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaDeUsuarioWeb\bin\CapaDeUsuarioWeb.dll.config
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaDeUsuarioWeb\bin\CapaDeUsuarioWeb.dll
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaDeUsuarioWeb\bin\CapaDeUsuarioWeb.pdb
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaDeUsuarioWeb\obj\Debug\CapaDeUsuarioWeb.csprojResolveAssemblyReference.cache
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaDeUsuarioWeb\obj\Debug\CapaDeUsuarioWeb.dll
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaDeUsuarioWeb\obj\Debug\CapaDeUsuarioWeb.pdb
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaDeUsuarioWeb\bin\CapaDeNegocio.dll
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaDeUsuarioWeb\bin\excepciones.dll
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaDeUsuarioWeb\bin\CapaDeDatos.dll
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaDeUsuarioWeb\bin\CapaDeNegocio.pdb
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaDeUsuarioWeb\bin\excepciones.pdb
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaDeUsuarioWeb\bin\CapaDeDatos.pdb
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\BibliotecaFinal2014v0.6\CapaDeUsuarioWeb\bin\CapaDeUsuarioWeb.dll.config
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\BibliotecaFinal2014v0.6\CapaDeUsuarioWeb\bin\CapaDeUsuarioWeb.dll
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\BibliotecaFinal2014v0.6\CapaDeUsuarioWeb\bin\CapaDeUsuarioWeb.pdb
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\BibliotecaFinal2014v0.6\CapaDeUsuarioWeb\bin\CapaDeNegocio.dll
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\BibliotecaFinal2014v0.6\CapaDeUsuarioWeb\bin\excepciones.dll
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\BibliotecaFinal2014v0.6\CapaDeUsuarioWeb\bin\CapaDeDatos.dll
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\BibliotecaFinal2014v0.6\CapaDeUsuarioWeb\bin\CapaDeNegocio.pdb
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\BibliotecaFinal2014v0.6\CapaDeUsuarioWeb\bin\excepciones.pdb
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\BibliotecaFinal2014v0.6\CapaDeUsuarioWeb\bin\CapaDeDatos.pdb
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\BibliotecaFinal2014v0.6\CapaDeUsuarioWeb\obj\Debug\CapaDeUsuarioWeb.csprojResolveAssemblyReference.cache
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\BibliotecaFinal2014v0.6\CapaDeUsuarioWeb\obj\Debug\CapaDeUsuarioWeb.dll
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\BibliotecaFinal2014v0.6\CapaDeUsuarioWeb\obj\Debug\CapaDeUsuarioWeb.pdb

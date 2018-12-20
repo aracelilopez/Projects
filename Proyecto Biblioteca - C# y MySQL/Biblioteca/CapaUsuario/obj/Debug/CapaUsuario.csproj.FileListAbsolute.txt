@@ -1,0 +1,330 @@
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.1\CapaUsuario\bin\Debug\CapaUsuario.exe.config
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.1\CapaUsuario\bin\Debug\CapaUsuario.exe
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.1\CapaUsuario\bin\Debug\CapaUsuario.pdb
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.1\CapaUsuario\bin\Debug\CapaDeNegocio.dll
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.1\CapaUsuario\bin\Debug\excepciones.dll
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.1\CapaUsuario\bin\Debug\CapaDeNegocio.pdb
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.1\CapaUsuario\bin\Debug\excepciones.pdb
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.1\CapaUsuario\obj\Debug\CapaUsuario.csprojResolveAssemblyReference.cache
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.1\CapaUsuario\obj\Debug\CapaUsuario.AgregarCliente.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.1\CapaUsuario\obj\Debug\CapaUsuario.EliminarCliente.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.1\CapaUsuario\obj\Debug\CapaUsuario.ListadoCliente.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.1\CapaUsuario\obj\Debug\CapaUsuario.MostrarCliente.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.1\CapaUsuario\obj\Debug\CapaUsuario.PantallaPrincipal.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.1\CapaUsuario\obj\Debug\CapaUsuario.Properties.Resources.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.1\CapaUsuario\obj\Debug\CapaUsuario.csproj.GenerateResource.Cache
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.1\CapaUsuario\obj\Debug\CapaUsuario.exe
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.1\CapaUsuario\obj\Debug\CapaUsuario.pdb
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.1\CapaUsuario\bin\Debug\CapaDeDatos.dll
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.1\CapaUsuario\bin\Debug\CapaDeDatos.pdb
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.1\CapaUsuario\obj\Debug\CapaUsuario.AgregarLibro.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.1\CapaUsuario\obj\Debug\CapaUsuario.EliminarLibroEjemplar.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.1\CapaUsuario\obj\Debug\CapaUsuario.ListadoLibro.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.1\CapaUsuario\obj\Debug\CapaUsuario.MostrarLibro.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.2\CapaUsuario\bin\Debug\CapaUsuario.exe.config
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.2\CapaUsuario\obj\Debug\CapaUsuario.exe
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.2\CapaUsuario\obj\Debug\CapaUsuario.pdb
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.2\CapaUsuario\bin\Debug\CapaUsuario.exe
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.2\CapaUsuario\bin\Debug\CapaUsuario.pdb
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.2\CapaUsuario\bin\Debug\CapaDeNegocio.dll
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.2\CapaUsuario\bin\Debug\excepciones.dll
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.2\CapaUsuario\bin\Debug\CapaDeDatos.dll
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.2\CapaUsuario\bin\Debug\CapaDeNegocio.pdb
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.2\CapaUsuario\bin\Debug\excepciones.pdb
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.2\CapaUsuario\bin\Debug\CapaDeDatos.pdb
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.2\CapaUsuario\obj\Debug\CapaUsuario.csprojResolveAssemblyReference.cache
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.2\CapaUsuario\obj\Debug\CapaUsuario.AgregarCliente.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.2\CapaUsuario\obj\Debug\CapaUsuario.AgregarLibro.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.2\CapaUsuario\obj\Debug\CapaUsuario.EliminarCliente.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.2\CapaUsuario\obj\Debug\CapaUsuario.EliminarLibroEjemplar.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.2\CapaUsuario\obj\Debug\CapaUsuario.ListadoCliente.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.2\CapaUsuario\obj\Debug\CapaUsuario.ListadoLibro.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.2\CapaUsuario\obj\Debug\CapaUsuario.MostrarCliente.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.2\CapaUsuario\obj\Debug\CapaUsuario.MostrarLibro.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.2\CapaUsuario\obj\Debug\CapaUsuario.PantallaPrincipal.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.2\CapaUsuario\obj\Debug\CapaUsuario.Properties.Resources.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.2\CapaUsuario\obj\Debug\CapaUsuario.csproj.GenerateResource.Cache
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.2\CapaUsuario\obj\Debug\CapaUsuario.CrearPrestamo.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.2\CapaUsuario\obj\Debug\CapaUsuario.BuscarCliente.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.2\CapaUsuario\obj\Debug\CapaUsuario.MostrarPrestamo.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.2\CapaUsuario\obj\Debug\CapaUsuario.ListadoPrestamo.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.2\CapaUsuario\obj\Debug\CapaUsuario.DevolucionPrestamo.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.3\CapaUsuario\bin\Debug\CapaUsuario.exe.config
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.3\CapaUsuario\obj\Debug\CapaUsuario.exe
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.3\CapaUsuario\obj\Debug\CapaUsuario.pdb
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.3\CapaUsuario\bin\Debug\CapaUsuario.exe
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.3\CapaUsuario\bin\Debug\CapaUsuario.pdb
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.3\CapaUsuario\bin\Debug\CapaDeNegocio.dll
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.3\CapaUsuario\bin\Debug\excepciones.dll
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.3\CapaUsuario\bin\Debug\CapaDeDatos.dll
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.3\CapaUsuario\bin\Debug\CapaDeNegocio.pdb
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.3\CapaUsuario\bin\Debug\excepciones.pdb
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.3\CapaUsuario\bin\Debug\CapaDeDatos.pdb
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.3\CapaUsuario\obj\Debug\CapaUsuario.csprojResolveAssemblyReference.cache
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.3\CapaUsuario\obj\Debug\CapaUsuario.AgregarCliente.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.3\CapaUsuario\obj\Debug\CapaUsuario.AgregarLibro.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.3\CapaUsuario\obj\Debug\CapaUsuario.BuscarCliente.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.3\CapaUsuario\obj\Debug\CapaUsuario.CrearPrestamo.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.3\CapaUsuario\obj\Debug\CapaUsuario.DevolucionPrestamo.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.3\CapaUsuario\obj\Debug\CapaUsuario.EliminarCliente.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.3\CapaUsuario\obj\Debug\CapaUsuario.EliminarLibroEjemplar.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.3\CapaUsuario\obj\Debug\CapaUsuario.ListadoCliente.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.3\CapaUsuario\obj\Debug\CapaUsuario.ListadoLibro.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.3\CapaUsuario\obj\Debug\CapaUsuario.ListadoPrestamo.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.3\CapaUsuario\obj\Debug\CapaUsuario.MostrarCliente.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.3\CapaUsuario\obj\Debug\CapaUsuario.MostrarLibro.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.3\CapaUsuario\obj\Debug\CapaUsuario.MostrarPrestamo.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.3\CapaUsuario\obj\Debug\CapaUsuario.PantallaPrincipal.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.3\CapaUsuario\obj\Debug\CapaUsuario.Properties.Resources.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.3\CapaUsuario\obj\Debug\CapaUsuario.csproj.GenerateResource.Cache
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.3\CapaUsuario\obj\Debug\CapaUsuario.ListadoReservas.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.3\CapaUsuario\obj\Debug\CapaUsuario.MostrarPrestamo2.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.3\CapaUsuario\obj\Debug\CapaUsuario.MostrarReserva.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.3\CapaUsuario\obj\Debug\CapaUsuario.AgregarReserva.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.3\CapaUsuario\obj\Debug\CapaUsuario.MostrarReserva2.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.3\CapaUsuario\obj\Debug\CapaUsuario.BuscarPrestamoReserva.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaUsuario\bin\Debug\CapaUsuario.exe.config
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaUsuario\obj\Debug\CapaUsuario.exe
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaUsuario\obj\Debug\CapaUsuario.pdb
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaUsuario\obj\Debug\CapaUsuario.csprojResolveAssemblyReference.cache
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaUsuario\obj\Debug\CapaUsuario.AgregarCliente.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaUsuario\obj\Debug\CapaUsuario.AgregarLibro.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaUsuario\obj\Debug\CapaUsuario.AgregarReserva.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaUsuario\obj\Debug\CapaUsuario.BuscarPrestamoReserva.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaUsuario\obj\Debug\CapaUsuario.CrearPrestamo.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaUsuario\obj\Debug\CapaUsuario.DevolucionPrestamo.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaUsuario\obj\Debug\CapaUsuario.EliminarCliente.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaUsuario\obj\Debug\CapaUsuario.EliminarLibroEjemplar.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaUsuario\obj\Debug\CapaUsuario.ListadoCliente.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaUsuario\obj\Debug\CapaUsuario.ListadoLibro.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaUsuario\obj\Debug\CapaUsuario.ListadoPrestamo.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaUsuario\obj\Debug\CapaUsuario.ListadoReservas.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaUsuario\obj\Debug\CapaUsuario.MostrarCliente.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaUsuario\obj\Debug\CapaUsuario.MostrarLibro.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaUsuario\obj\Debug\CapaUsuario.MostrarPrestamo.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaUsuario\obj\Debug\CapaUsuario.MostrarPrestamo2.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaUsuario\obj\Debug\CapaUsuario.MostrarReserva.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaUsuario\obj\Debug\CapaUsuario.MostrarReserva2.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaUsuario\obj\Debug\CapaUsuario.PantallaPrincipal.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaUsuario\obj\Debug\CapaUsuario.Properties.Resources.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaUsuario\obj\Debug\CapaUsuario.csproj.GenerateResource.Cache
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaUsuario\bin\Debug\CapaUsuario.exe
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaUsuario\bin\Debug\CapaUsuario.pdb
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaUsuario\bin\Debug\CapaDeNegocio.dll
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaUsuario\bin\Debug\excepciones.dll
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaUsuario\bin\Debug\CapaDeDatos.dll
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaUsuario\bin\Debug\CapaDeNegocio.pdb
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaUsuario\bin\Debug\excepciones.pdb
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaUsuario\bin\Debug\CapaDeDatos.pdb
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaUsuario\bin\Debug\CapaUsuario.exe.config
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaUsuario\obj\Debug\CapaUsuario.exe
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaUsuario\obj\Debug\CapaUsuario.pdb
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaUsuario\bin\Debug\CapaUsuario.exe
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaUsuario\bin\Debug\CapaUsuario.pdb
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaUsuario\bin\Debug\CapaDeNegocio.dll
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaUsuario\bin\Debug\excepciones.dll
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaUsuario\bin\Debug\CapaDeDatos.dll
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaUsuario\bin\Debug\CapaDeNegocio.pdb
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaUsuario\bin\Debug\excepciones.pdb
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaUsuario\bin\Debug\CapaDeDatos.pdb
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaUsuario\obj\Debug\CapaUsuario.csprojResolveAssemblyReference.cache
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaUsuario\obj\Debug\CapaUsuario.AgregarCliente.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaUsuario\obj\Debug\CapaUsuario.AgregarLibro.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaUsuario\obj\Debug\CapaUsuario.AgregarReserva.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaUsuario\obj\Debug\CapaUsuario.BuscarPrestamoReserva.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaUsuario\obj\Debug\CapaUsuario.CrearPrestamo.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaUsuario\obj\Debug\CapaUsuario.DevolucionPrestamo.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaUsuario\obj\Debug\CapaUsuario.EliminarCliente.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaUsuario\obj\Debug\CapaUsuario.EliminarLibroEjemplar.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaUsuario\obj\Debug\CapaUsuario.ListadoCliente.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaUsuario\obj\Debug\CapaUsuario.ListadoLibro.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaUsuario\obj\Debug\CapaUsuario.ListadoPrestamo.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaUsuario\obj\Debug\CapaUsuario.ListadoReservas.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaUsuario\obj\Debug\CapaUsuario.MostrarCliente.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaUsuario\obj\Debug\CapaUsuario.MostrarLibro.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaUsuario\obj\Debug\CapaUsuario.MostrarPrestamo.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaUsuario\obj\Debug\CapaUsuario.MostrarPrestamo2.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaUsuario\obj\Debug\CapaUsuario.MostrarReserva.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaUsuario\obj\Debug\CapaUsuario.MostrarReserva2.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaUsuario\obj\Debug\CapaUsuario.PantallaPrincipal.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaUsuario\obj\Debug\CapaUsuario.Properties.Resources.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\CapaUsuario\obj\Debug\CapaUsuario.csproj.GenerateResource.Cache
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\BibliotecaFinal2014v0.6\CapaUsuario\bin\Debug\CapaUsuario.exe.config
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\BibliotecaFinal2014v0.6\CapaUsuario\obj\Debug\CapaUsuario.exe
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\BibliotecaFinal2014v0.6\CapaUsuario\obj\Debug\CapaUsuario.pdb
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\BibliotecaFinal2014v0.6\CapaUsuario\obj\Debug\CapaUsuario.csprojResolveAssemblyReference.cache
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\BibliotecaFinal2014v0.6\CapaUsuario\obj\Debug\CapaUsuario.AgregarCliente.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\BibliotecaFinal2014v0.6\CapaUsuario\obj\Debug\CapaUsuario.AgregarLibro.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\BibliotecaFinal2014v0.6\CapaUsuario\obj\Debug\CapaUsuario.AgregarReserva.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\BibliotecaFinal2014v0.6\CapaUsuario\obj\Debug\CapaUsuario.BuscarPrestamoReserva.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\BibliotecaFinal2014v0.6\CapaUsuario\obj\Debug\CapaUsuario.CrearPrestamo.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\BibliotecaFinal2014v0.6\CapaUsuario\obj\Debug\CapaUsuario.DevolucionPrestamo.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\BibliotecaFinal2014v0.6\CapaUsuario\obj\Debug\CapaUsuario.EliminarLibroEjemplar.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\BibliotecaFinal2014v0.6\CapaUsuario\obj\Debug\CapaUsuario.ListadoCliente.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\BibliotecaFinal2014v0.6\CapaUsuario\obj\Debug\CapaUsuario.ListadoLibro.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\BibliotecaFinal2014v0.6\CapaUsuario\obj\Debug\CapaUsuario.ListadoPrestamo.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\BibliotecaFinal2014v0.6\CapaUsuario\obj\Debug\CapaUsuario.ListadoReservas.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\BibliotecaFinal2014v0.6\CapaUsuario\obj\Debug\CapaUsuario.MostrarCliente.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\BibliotecaFinal2014v0.6\CapaUsuario\obj\Debug\CapaUsuario.MostrarLibro.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\BibliotecaFinal2014v0.6\CapaUsuario\obj\Debug\CapaUsuario.MostrarPrestamo.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\BibliotecaFinal2014v0.6\CapaUsuario\obj\Debug\CapaUsuario.MostrarPrestamo2.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\BibliotecaFinal2014v0.6\CapaUsuario\obj\Debug\CapaUsuario.MostrarReserva.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\BibliotecaFinal2014v0.6\CapaUsuario\obj\Debug\CapaUsuario.MostrarReserva2.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\BibliotecaFinal2014v0.6\CapaUsuario\obj\Debug\CapaUsuario.PantallaPrincipal.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\BibliotecaFinal2014v0.6\CapaUsuario\obj\Debug\CapaUsuario.Properties.Resources.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\BibliotecaFinal2014v0.6\CapaUsuario\obj\Debug\CapaUsuario.csproj.GenerateResource.Cache
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\BibliotecaFinal2014v0.6\CapaUsuario\bin\Debug\CapaUsuario.exe
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\BibliotecaFinal2014v0.6\CapaUsuario\bin\Debug\CapaUsuario.pdb
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\BibliotecaFinal2014v0.6\CapaUsuario\bin\Debug\CapaDeNegocio.dll
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\BibliotecaFinal2014v0.6\CapaUsuario\bin\Debug\excepciones.dll
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\BibliotecaFinal2014v0.6\CapaUsuario\bin\Debug\CapaDeDatos.dll
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\BibliotecaFinal2014v0.6\CapaUsuario\bin\Debug\CapaDeNegocio.pdb
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\BibliotecaFinal2014v0.6\CapaUsuario\bin\Debug\excepciones.pdb
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\BibliotecaFinal2014v0.6\CapaUsuario\bin\Debug\CapaDeDatos.pdb
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\BibliotecaFinal2014v0.6\CapaUsuario\obj\Debug\CapaUsuario.EliminarCliente2.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\BibliotecaFinal2014v0.6\CapaUsuario\obj\Debug\CapaUsuario.EliminarLibros.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.6\CapaUsuario\bin\Debug\CapaUsuario.exe.config
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.6\CapaUsuario\obj\Debug\CapaUsuario.exe
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.6\CapaUsuario\obj\Debug\CapaUsuario.pdb
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.6\CapaUsuario\bin\Debug\CapaUsuario.exe
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.6\CapaUsuario\bin\Debug\CapaUsuario.pdb
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.6\CapaUsuario\bin\Debug\CapaDeNegocio.dll
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.6\CapaUsuario\bin\Debug\excepciones.dll
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.6\CapaUsuario\bin\Debug\CapaDeDatos.dll
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.6\CapaUsuario\bin\Debug\CapaDeNegocio.pdb
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.6\CapaUsuario\bin\Debug\excepciones.pdb
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.6\CapaUsuario\bin\Debug\CapaDeDatos.pdb
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.6\CapaUsuario\obj\Debug\CapaUsuario.csprojResolveAssemblyReference.cache
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.6\CapaUsuario\obj\Debug\CapaUsuario.AgregarCliente.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.6\CapaUsuario\obj\Debug\CapaUsuario.AgregarLibro.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.6\CapaUsuario\obj\Debug\CapaUsuario.AgregarReserva.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.6\CapaUsuario\obj\Debug\CapaUsuario.BuscarPrestamoReserva.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.6\CapaUsuario\obj\Debug\CapaUsuario.CrearPrestamo.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.6\CapaUsuario\obj\Debug\CapaUsuario.DevolucionPrestamo.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.6\CapaUsuario\obj\Debug\CapaUsuario.EliminarCliente2.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.6\CapaUsuario\obj\Debug\CapaUsuario.EliminarLibroEjemplar.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.6\CapaUsuario\obj\Debug\CapaUsuario.EliminarLibros.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.6\CapaUsuario\obj\Debug\CapaUsuario.ListadoCliente.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.6\CapaUsuario\obj\Debug\CapaUsuario.ListadoLibro.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.6\CapaUsuario\obj\Debug\CapaUsuario.ListadoPrestamo.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.6\CapaUsuario\obj\Debug\CapaUsuario.ListadoReservas.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.6\CapaUsuario\obj\Debug\CapaUsuario.MostrarCliente.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.6\CapaUsuario\obj\Debug\CapaUsuario.MostrarLibro.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.6\CapaUsuario\obj\Debug\CapaUsuario.MostrarPrestamo.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.6\CapaUsuario\obj\Debug\CapaUsuario.MostrarPrestamo2.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.6\CapaUsuario\obj\Debug\CapaUsuario.MostrarReserva.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.6\CapaUsuario\obj\Debug\CapaUsuario.MostrarReserva2.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.6\CapaUsuario\obj\Debug\CapaUsuario.PantallaPrincipal.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.6\CapaUsuario\obj\Debug\CapaUsuario.Properties.Resources.resources
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.6\CapaUsuario\obj\Debug\CapaUsuario.csproj.GenerateResource.Cache
+C:\Cosas de la facultad\Electiva de programacion\FINAL\BibliotecaFinal2014v0.6\CapaUsuario\bin\Debug\CapaUsuario.exe.config
+C:\Cosas de la facultad\Electiva de programacion\FINAL\BibliotecaFinal2014v0.6\CapaUsuario\bin\Debug\CapaUsuario.exe
+C:\Cosas de la facultad\Electiva de programacion\FINAL\BibliotecaFinal2014v0.6\CapaUsuario\bin\Debug\CapaUsuario.pdb
+C:\Cosas de la facultad\Electiva de programacion\FINAL\BibliotecaFinal2014v0.6\CapaUsuario\bin\Debug\CapaDeNegocio.dll
+C:\Cosas de la facultad\Electiva de programacion\FINAL\BibliotecaFinal2014v0.6\CapaUsuario\bin\Debug\excepciones.dll
+C:\Cosas de la facultad\Electiva de programacion\FINAL\BibliotecaFinal2014v0.6\CapaUsuario\bin\Debug\CapaDeDatos.dll
+C:\Cosas de la facultad\Electiva de programacion\FINAL\BibliotecaFinal2014v0.6\CapaUsuario\bin\Debug\MySql.Data.dll
+C:\Cosas de la facultad\Electiva de programacion\FINAL\BibliotecaFinal2014v0.6\CapaUsuario\bin\Debug\CapaDeNegocio.pdb
+C:\Cosas de la facultad\Electiva de programacion\FINAL\BibliotecaFinal2014v0.6\CapaUsuario\bin\Debug\excepciones.pdb
+C:\Cosas de la facultad\Electiva de programacion\FINAL\BibliotecaFinal2014v0.6\CapaUsuario\bin\Debug\CapaDeDatos.pdb
+C:\Cosas de la facultad\Electiva de programacion\FINAL\BibliotecaFinal2014v0.6\CapaUsuario\obj\Debug\CapaUsuario.csprojAssemblyReference.cache
+C:\Cosas de la facultad\Electiva de programacion\FINAL\BibliotecaFinal2014v0.6\CapaUsuario\obj\Debug\CapaUsuario.AgregarCliente.resources
+C:\Cosas de la facultad\Electiva de programacion\FINAL\BibliotecaFinal2014v0.6\CapaUsuario\obj\Debug\CapaUsuario.AgregarLibro.resources
+C:\Cosas de la facultad\Electiva de programacion\FINAL\BibliotecaFinal2014v0.6\CapaUsuario\obj\Debug\CapaUsuario.AgregarReserva.resources
+C:\Cosas de la facultad\Electiva de programacion\FINAL\BibliotecaFinal2014v0.6\CapaUsuario\obj\Debug\CapaUsuario.BuscarPrestamoReserva.resources
+C:\Cosas de la facultad\Electiva de programacion\FINAL\BibliotecaFinal2014v0.6\CapaUsuario\obj\Debug\CapaUsuario.CrearPrestamo.resources
+C:\Cosas de la facultad\Electiva de programacion\FINAL\BibliotecaFinal2014v0.6\CapaUsuario\obj\Debug\CapaUsuario.DevolucionPrestamo.resources
+C:\Cosas de la facultad\Electiva de programacion\FINAL\BibliotecaFinal2014v0.6\CapaUsuario\obj\Debug\CapaUsuario.EliminarCliente2.resources
+C:\Cosas de la facultad\Electiva de programacion\FINAL\BibliotecaFinal2014v0.6\CapaUsuario\obj\Debug\CapaUsuario.EliminarLibroEjemplar.resources
+C:\Cosas de la facultad\Electiva de programacion\FINAL\BibliotecaFinal2014v0.6\CapaUsuario\obj\Debug\CapaUsuario.EliminarLibros.resources
+C:\Cosas de la facultad\Electiva de programacion\FINAL\BibliotecaFinal2014v0.6\CapaUsuario\obj\Debug\CapaUsuario.ListadoCliente.resources
+C:\Cosas de la facultad\Electiva de programacion\FINAL\BibliotecaFinal2014v0.6\CapaUsuario\obj\Debug\CapaUsuario.ListadoLibro.resources
+C:\Cosas de la facultad\Electiva de programacion\FINAL\BibliotecaFinal2014v0.6\CapaUsuario\obj\Debug\CapaUsuario.ListadoPrestamo.resources
+C:\Cosas de la facultad\Electiva de programacion\FINAL\BibliotecaFinal2014v0.6\CapaUsuario\obj\Debug\CapaUsuario.ListadoReservas.resources
+C:\Cosas de la facultad\Electiva de programacion\FINAL\BibliotecaFinal2014v0.6\CapaUsuario\obj\Debug\CapaUsuario.MostrarCliente.resources
+C:\Cosas de la facultad\Electiva de programacion\FINAL\BibliotecaFinal2014v0.6\CapaUsuario\obj\Debug\CapaUsuario.MostrarLibro.resources
+C:\Cosas de la facultad\Electiva de programacion\FINAL\BibliotecaFinal2014v0.6\CapaUsuario\obj\Debug\CapaUsuario.MostrarPrestamo.resources
+C:\Cosas de la facultad\Electiva de programacion\FINAL\BibliotecaFinal2014v0.6\CapaUsuario\obj\Debug\CapaUsuario.MostrarPrestamo2.resources
+C:\Cosas de la facultad\Electiva de programacion\FINAL\BibliotecaFinal2014v0.6\CapaUsuario\obj\Debug\CapaUsuario.MostrarReserva.resources
+C:\Cosas de la facultad\Electiva de programacion\FINAL\BibliotecaFinal2014v0.6\CapaUsuario\obj\Debug\CapaUsuario.MostrarReserva2.resources
+C:\Cosas de la facultad\Electiva de programacion\FINAL\BibliotecaFinal2014v0.6\CapaUsuario\obj\Debug\CapaUsuario.PantallaPrincipal.resources
+C:\Cosas de la facultad\Electiva de programacion\FINAL\BibliotecaFinal2014v0.6\CapaUsuario\obj\Debug\CapaUsuario.Properties.Resources.resources
+C:\Cosas de la facultad\Electiva de programacion\FINAL\BibliotecaFinal2014v0.6\CapaUsuario\obj\Debug\CapaUsuario.csproj.GenerateResource.cache
+C:\Cosas de la facultad\Electiva de programacion\FINAL\BibliotecaFinal2014v0.6\CapaUsuario\obj\Debug\CapaUsuario.csproj.CoreCompileInputs.cache
+C:\Cosas de la facultad\Electiva de programacion\FINAL\BibliotecaFinal2014v0.6\CapaUsuario\obj\Debug\CapaUsuario.csproj.CopyComplete
+C:\Cosas de la facultad\Electiva de programacion\FINAL\BibliotecaFinal2014v0.6\CapaUsuario\obj\Debug\CapaUsuario.exe
+C:\Cosas de la facultad\Electiva de programacion\FINAL\BibliotecaFinal2014v0.6\CapaUsuario\obj\Debug\CapaUsuario.pdb
+C:\Users\User\Desktop\Trabajos chotos\Biblioteca\CapaUsuario\bin\Debug\CapaUsuario.exe.config
+C:\Users\User\Desktop\Trabajos chotos\Biblioteca\CapaUsuario\bin\Debug\CapaUsuario.exe
+C:\Users\User\Desktop\Trabajos chotos\Biblioteca\CapaUsuario\bin\Debug\CapaUsuario.pdb
+C:\Users\User\Desktop\Trabajos chotos\Biblioteca\CapaUsuario\bin\Debug\CapaDeNegocio.dll
+C:\Users\User\Desktop\Trabajos chotos\Biblioteca\CapaUsuario\bin\Debug\excepciones.dll
+C:\Users\User\Desktop\Trabajos chotos\Biblioteca\CapaUsuario\bin\Debug\CapaDeDatos.dll
+C:\Users\User\Desktop\Trabajos chotos\Biblioteca\CapaUsuario\bin\Debug\MySql.Data.dll
+C:\Users\User\Desktop\Trabajos chotos\Biblioteca\CapaUsuario\bin\Debug\CapaDeNegocio.pdb
+C:\Users\User\Desktop\Trabajos chotos\Biblioteca\CapaUsuario\bin\Debug\excepciones.pdb
+C:\Users\User\Desktop\Trabajos chotos\Biblioteca\CapaUsuario\bin\Debug\CapaDeDatos.pdb
+C:\Users\User\Desktop\Trabajos chotos\Biblioteca\CapaUsuario\obj\Debug\CapaUsuario.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Trabajos chotos\Biblioteca\CapaUsuario\obj\Debug\CapaUsuario.AgregarCliente.resources
+C:\Users\User\Desktop\Trabajos chotos\Biblioteca\CapaUsuario\obj\Debug\CapaUsuario.AgregarLibro.resources
+C:\Users\User\Desktop\Trabajos chotos\Biblioteca\CapaUsuario\obj\Debug\CapaUsuario.AgregarReserva.resources
+C:\Users\User\Desktop\Trabajos chotos\Biblioteca\CapaUsuario\obj\Debug\CapaUsuario.BuscarPrestamoReserva.resources
+C:\Users\User\Desktop\Trabajos chotos\Biblioteca\CapaUsuario\obj\Debug\CapaUsuario.CrearPrestamo.resources
+C:\Users\User\Desktop\Trabajos chotos\Biblioteca\CapaUsuario\obj\Debug\CapaUsuario.DevolucionPrestamo.resources
+C:\Users\User\Desktop\Trabajos chotos\Biblioteca\CapaUsuario\obj\Debug\CapaUsuario.EliminarCliente2.resources
+C:\Users\User\Desktop\Trabajos chotos\Biblioteca\CapaUsuario\obj\Debug\CapaUsuario.EliminarLibroEjemplar.resources
+C:\Users\User\Desktop\Trabajos chotos\Biblioteca\CapaUsuario\obj\Debug\CapaUsuario.EliminarLibros.resources
+C:\Users\User\Desktop\Trabajos chotos\Biblioteca\CapaUsuario\obj\Debug\CapaUsuario.ListadoCliente.resources
+C:\Users\User\Desktop\Trabajos chotos\Biblioteca\CapaUsuario\obj\Debug\CapaUsuario.ListadoLibro.resources
+C:\Users\User\Desktop\Trabajos chotos\Biblioteca\CapaUsuario\obj\Debug\CapaUsuario.ListadoPrestamo.resources
+C:\Users\User\Desktop\Trabajos chotos\Biblioteca\CapaUsuario\obj\Debug\CapaUsuario.ListadoReservas.resources
+C:\Users\User\Desktop\Trabajos chotos\Biblioteca\CapaUsuario\obj\Debug\CapaUsuario.MostrarCliente.resources
+C:\Users\User\Desktop\Trabajos chotos\Biblioteca\CapaUsuario\obj\Debug\CapaUsuario.MostrarLibro.resources
+C:\Users\User\Desktop\Trabajos chotos\Biblioteca\CapaUsuario\obj\Debug\CapaUsuario.MostrarPrestamo.resources
+C:\Users\User\Desktop\Trabajos chotos\Biblioteca\CapaUsuario\obj\Debug\CapaUsuario.MostrarPrestamo2.resources
+C:\Users\User\Desktop\Trabajos chotos\Biblioteca\CapaUsuario\obj\Debug\CapaUsuario.MostrarReserva.resources
+C:\Users\User\Desktop\Trabajos chotos\Biblioteca\CapaUsuario\obj\Debug\CapaUsuario.MostrarReserva2.resources
+C:\Users\User\Desktop\Trabajos chotos\Biblioteca\CapaUsuario\obj\Debug\CapaUsuario.PantallaPrincipal.resources
+C:\Users\User\Desktop\Trabajos chotos\Biblioteca\CapaUsuario\obj\Debug\CapaUsuario.Properties.Resources.resources
+C:\Users\User\Desktop\Trabajos chotos\Biblioteca\CapaUsuario\obj\Debug\CapaUsuario.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Trabajos chotos\Biblioteca\CapaUsuario\obj\Debug\CapaUsuario.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Trabajos chotos\Biblioteca\CapaUsuario\obj\Debug\CapaUsuario.csproj.CopyComplete
+C:\Users\User\Desktop\Trabajos chotos\Biblioteca\CapaUsuario\obj\Debug\CapaUsuario.exe
+C:\Users\User\Desktop\Trabajos chotos\Biblioteca\CapaUsuario\obj\Debug\CapaUsuario.pdb
+C:\Users\Gonzalo\Desktop\Araceli\Biblioteca\CapaUsuario\bin\Debug\CapaUsuario.exe.config
+C:\Users\Gonzalo\Desktop\Araceli\Biblioteca\CapaUsuario\bin\Debug\CapaUsuario.exe
+C:\Users\Gonzalo\Desktop\Araceli\Biblioteca\CapaUsuario\bin\Debug\CapaUsuario.pdb
+C:\Users\Gonzalo\Desktop\Araceli\Biblioteca\CapaUsuario\bin\Debug\CapaDeNegocio.dll
+C:\Users\Gonzalo\Desktop\Araceli\Biblioteca\CapaUsuario\bin\Debug\excepciones.dll
+C:\Users\Gonzalo\Desktop\Araceli\Biblioteca\CapaUsuario\bin\Debug\CapaDeDatos.dll
+C:\Users\Gonzalo\Desktop\Araceli\Biblioteca\CapaUsuario\bin\Debug\MySql.Data.dll
+C:\Users\Gonzalo\Desktop\Araceli\Biblioteca\CapaUsuario\bin\Debug\CapaDeNegocio.pdb
+C:\Users\Gonzalo\Desktop\Araceli\Biblioteca\CapaUsuario\bin\Debug\excepciones.pdb
+C:\Users\Gonzalo\Desktop\Araceli\Biblioteca\CapaUsuario\bin\Debug\CapaDeDatos.pdb
+C:\Users\Gonzalo\Desktop\Araceli\Biblioteca\CapaUsuario\obj\Debug\CapaUsuario.csprojAssemblyReference.cache
+C:\Users\Gonzalo\Desktop\Araceli\Biblioteca\CapaUsuario\obj\Debug\CapaUsuario.AgregarCliente.resources
+C:\Users\Gonzalo\Desktop\Araceli\Biblioteca\CapaUsuario\obj\Debug\CapaUsuario.AgregarLibro.resources
+C:\Users\Gonzalo\Desktop\Araceli\Biblioteca\CapaUsuario\obj\Debug\CapaUsuario.AgregarReserva.resources
+C:\Users\Gonzalo\Desktop\Araceli\Biblioteca\CapaUsuario\obj\Debug\CapaUsuario.BuscarPrestamoReserva.resources
+C:\Users\Gonzalo\Desktop\Araceli\Biblioteca\CapaUsuario\obj\Debug\CapaUsuario.CrearPrestamo.resources
+C:\Users\Gonzalo\Desktop\Araceli\Biblioteca\CapaUsuario\obj\Debug\CapaUsuario.DevolucionPrestamo.resources
+C:\Users\Gonzalo\Desktop\Araceli\Biblioteca\CapaUsuario\obj\Debug\CapaUsuario.EliminarCliente2.resources
+C:\Users\Gonzalo\Desktop\Araceli\Biblioteca\CapaUsuario\obj\Debug\CapaUsuario.EliminarLibroEjemplar.resources
+C:\Users\Gonzalo\Desktop\Araceli\Biblioteca\CapaUsuario\obj\Debug\CapaUsuario.EliminarLibros.resources
+C:\Users\Gonzalo\Desktop\Araceli\Biblioteca\CapaUsuario\obj\Debug\CapaUsuario.ListadoCliente.resources
+C:\Users\Gonzalo\Desktop\Araceli\Biblioteca\CapaUsuario\obj\Debug\CapaUsuario.ListadoLibro.resources
+C:\Users\Gonzalo\Desktop\Araceli\Biblioteca\CapaUsuario\obj\Debug\CapaUsuario.ListadoPrestamo.resources
+C:\Users\Gonzalo\Desktop\Araceli\Biblioteca\CapaUsuario\obj\Debug\CapaUsuario.ListadoReservas.resources
+C:\Users\Gonzalo\Desktop\Araceli\Biblioteca\CapaUsuario\obj\Debug\CapaUsuario.MostrarCliente.resources
+C:\Users\Gonzalo\Desktop\Araceli\Biblioteca\CapaUsuario\obj\Debug\CapaUsuario.MostrarLibro.resources
+C:\Users\Gonzalo\Desktop\Araceli\Biblioteca\CapaUsuario\obj\Debug\CapaUsuario.MostrarPrestamo.resources
+C:\Users\Gonzalo\Desktop\Araceli\Biblioteca\CapaUsuario\obj\Debug\CapaUsuario.MostrarPrestamo2.resources
+C:\Users\Gonzalo\Desktop\Araceli\Biblioteca\CapaUsuario\obj\Debug\CapaUsuario.MostrarReserva.resources
+C:\Users\Gonzalo\Desktop\Araceli\Biblioteca\CapaUsuario\obj\Debug\CapaUsuario.MostrarReserva2.resources
+C:\Users\Gonzalo\Desktop\Araceli\Biblioteca\CapaUsuario\obj\Debug\CapaUsuario.PantallaPrincipal.resources
+C:\Users\Gonzalo\Desktop\Araceli\Biblioteca\CapaUsuario\obj\Debug\CapaUsuario.Properties.Resources.resources
+C:\Users\Gonzalo\Desktop\Araceli\Biblioteca\CapaUsuario\obj\Debug\CapaUsuario.csproj.GenerateResource.cache
+C:\Users\Gonzalo\Desktop\Araceli\Biblioteca\CapaUsuario\obj\Debug\CapaUsuario.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalo\Desktop\Araceli\Biblioteca\CapaUsuario\obj\Debug\CapaUsuario.csproj.CopyComplete
+C:\Users\Gonzalo\Desktop\Araceli\Biblioteca\CapaUsuario\obj\Debug\CapaUsuario.exe
+C:\Users\Gonzalo\Desktop\Araceli\Biblioteca\CapaUsuario\obj\Debug\CapaUsuario.pdb

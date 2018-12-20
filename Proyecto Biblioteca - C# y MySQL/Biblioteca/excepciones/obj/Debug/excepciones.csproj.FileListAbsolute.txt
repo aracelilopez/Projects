@@ -1,0 +1,43 @@
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\BibliotecaFinal2014\excepciones\bin\Debug\excepciones.dll
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\BibliotecaFinal2014\excepciones\bin\Debug\excepciones.pdb
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\BibliotecaFinal2014\excepciones\obj\Debug\excepciones.csprojResolveAssemblyReference.cache
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\BibliotecaFinal2014\excepciones\obj\Debug\excepciones.dll
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\BibliotecaFinal2014\excepciones\obj\Debug\excepciones.pdb
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.1\excepciones\bin\Debug\excepciones.dll
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.1\excepciones\bin\Debug\excepciones.pdb
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.1\excepciones\obj\Debug\excepciones.csprojResolveAssemblyReference.cache
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.1\excepciones\obj\Debug\excepciones.dll
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.1\excepciones\obj\Debug\excepciones.pdb
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.3\excepciones\bin\Debug\excepciones.dll
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.3\excepciones\bin\Debug\excepciones.pdb
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.3\excepciones\obj\Debug\excepciones.csprojResolveAssemblyReference.cache
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.3\excepciones\obj\Debug\excepciones.dll
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.3\excepciones\obj\Debug\excepciones.pdb
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\excepciones\bin\Debug\excepciones.dll
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\excepciones\bin\Debug\excepciones.pdb
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\excepciones\obj\Debug\excepciones.csprojResolveAssemblyReference.cache
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\excepciones\obj\Debug\excepciones.dll
+C:\Users\Gonzalo\Documents\Cosas de la facultad\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.4\excepciones\obj\Debug\excepciones.pdb
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.6\excepciones\bin\Debug\excepciones.dll
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.6\excepciones\bin\Debug\excepciones.pdb
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.6\excepciones\obj\Debug\excepciones.csprojResolveAssemblyReference.cache
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.6\excepciones\obj\Debug\excepciones.dll
+C:\Users\Gonzalo\Documents\Cosas de la facultad(mayo 2014)\Electiva de programacion\PROYECTOS\FINAL\BibliotecaFinal2014v0.6\excepciones\obj\Debug\excepciones.pdb
+C:\Cosas de la facultad\Electiva de programacion\FINAL\BibliotecaFinal2014v0.6\excepciones\bin\Debug\excepciones.dll
+C:\Cosas de la facultad\Electiva de programacion\FINAL\BibliotecaFinal2014v0.6\excepciones\bin\Debug\excepciones.pdb
+C:\Cosas de la facultad\Electiva de programacion\FINAL\BibliotecaFinal2014v0.6\excepciones\obj\Debug\excepciones.csprojAssemblyReference.cache
+C:\Cosas de la facultad\Electiva de programacion\FINAL\BibliotecaFinal2014v0.6\excepciones\obj\Debug\excepciones.csproj.CoreCompileInputs.cache
+C:\Cosas de la facultad\Electiva de programacion\FINAL\BibliotecaFinal2014v0.6\excepciones\obj\Debug\excepciones.dll
+C:\Cosas de la facultad\Electiva de programacion\FINAL\BibliotecaFinal2014v0.6\excepciones\obj\Debug\excepciones.pdb
+C:\Users\User\Desktop\Trabajos chotos\Biblioteca\excepciones\bin\Debug\excepciones.dll
+C:\Users\User\Desktop\Trabajos chotos\Biblioteca\excepciones\bin\Debug\excepciones.pdb
+C:\Users\User\Desktop\Trabajos chotos\Biblioteca\excepciones\obj\Debug\excepciones.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Trabajos chotos\Biblioteca\excepciones\obj\Debug\excepciones.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Trabajos chotos\Biblioteca\excepciones\obj\Debug\excepciones.dll
+C:\Users\User\Desktop\Trabajos chotos\Biblioteca\excepciones\obj\Debug\excepciones.pdb
+C:\Users\Gonzalo\Desktop\Araceli\Biblioteca\excepciones\bin\Debug\excepciones.dll
+C:\Users\Gonzalo\Desktop\Araceli\Biblioteca\excepciones\bin\Debug\excepciones.pdb
+C:\Users\Gonzalo\Desktop\Araceli\Biblioteca\excepciones\obj\Debug\excepciones.csprojAssemblyReference.cache
+C:\Users\Gonzalo\Desktop\Araceli\Biblioteca\excepciones\obj\Debug\excepciones.csproj.CoreCompileInputs.cache
+C:\Users\Gonzalo\Desktop\Araceli\Biblioteca\excepciones\obj\Debug\excepciones.dll
+C:\Users\Gonzalo\Desktop\Araceli\Biblioteca\excepciones\obj\Debug\excepciones.pdb
