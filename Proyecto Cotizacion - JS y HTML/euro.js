@@ -34,6 +34,6 @@ function convertir_a_euros(pesos)
       resultado = pesos/dolar;
       document.getElementById("total").innerHTML="su conversion a euros es de E$ "+ resultado;
       
-      document.getElementById("texto").innerHTML="Esta moneda se encuentra cotizada a " + cotizacion + ",en la fecha y hora " + modificacion;
+      document.getElementById("texto").innerHTML="Esta moneda se encuentra cotizada a $ " + cotizacion + ",en la fecha y hora " + modificacion;
       }
     }   

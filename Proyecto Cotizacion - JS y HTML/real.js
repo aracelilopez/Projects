@@ -35,7 +35,7 @@ function convertir_a_real(pesos)
       resultado = pesos/dolar;
       document.getElementById("total").innerHTML="su conversion a reales es de R$ "+ resultado;
 
-        document.getElementById("texto").innerHTML="Esta moneda se encuentra cotizada a " + cotizacion + ",en la fecha y hora " + modificacion;
+        document.getElementById("texto").innerHTML="Esta moneda se encuentra cotizada a $ " + cotizacion + ",en la fecha y hora " + modificacion;
       
       }
     }   

@@ -36,7 +36,7 @@ function convertir_a_dolares(pesos)
       cotizacion = 1/dolar;
       document.getElementById("total").innerHTML="su conversion a dolares es de U$D "+ resultado;
 
-      document.getElementById("texto").innerHTML="Esta moneda se encuentra cotizada a " + cotizacion + ",en la fecha y hora " + modificacion;
+      document.getElementById("texto").innerHTML="Esta moneda se encuentra cotizada a $ " + cotizacion + ",en la fecha y hora " + modificacion;
       }
     }   
 
